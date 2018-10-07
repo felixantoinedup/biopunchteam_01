@@ -1,0 +1,1392 @@
+﻿Log file open, 10/06/18 20:07:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: biopunchteam_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259008
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.225s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.07-00.07.36:091][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.07-00.07.36:091][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.07-00.07.36:118][  0]LogHAL: Display: Platform has ~ 8 GB [8505446400 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.07-00.07.36:119][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.07-00.07.36:119][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.07-00.07.36:119][  0]LogInit: Computer: THE-BIRD
+[2018.10.07-00.07.36:119][  0]LogInit: User: Catherine
+[2018.10.07-00.07.36:119][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.07-00.07.36:119][  0]LogInit: High frequency timer resolution =2.143505 MHz
+[2018.10.07-00.07.36:120][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.07-00.07.36:120][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.07-00.07.36:120][  0]LogMemory: Process Physical Memory: 101.10 MB used, 101.10 MB peak
+[2018.10.07-00.07.36:120][  0]LogMemory: Process Virtual Memory: 93.03 MB used, 93.03 MB peak
+[2018.10.07-00.07.36:120][  0]LogMemory: Physical Memory: 6190.98 MB used,  1920.45 MB free, 8111.43 MB total
+[2018.10.07-00.07.36:120][  0]LogMemory: Virtual Memory: 479.19 MB used,  1920.45 MB free, 8388608.00 MB total
+[2018.10.07-00.07.36:196][  0]LogInit: Using OS detected language (fr-CA).
+[2018.10.07-00.07.36:196][  0]LogInit: Using OS detected locale (fr-CA).
+[2018.10.07-00.07.36:198][  0]LogTextLocalizationManager: No specific localization for 'fr-CA' exists, so the 'fr' localization will be used.
+[2018.10.07-00.07.36:200][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2018.10.07-00.07.36:201][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.10.07-00.07.36:201][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.10.07-00.07.36:201][  0]LogInit: Setting process to DPI aware
+[2018.10.07-00.07.36:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.07-00.07.36:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.07-00.07.36:606][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.07-00.07.36:606][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.07-00.07.36:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.10.07-00.07.36:661][  0]LogD3D11RHI:       1995/0/3799 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.07-00.07.36:708][  0]LogD3D11RHI:    1. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.10.07-00.07.36:708][  0]LogD3D11RHI:       1995/0/3799 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.10.07-00.07.36:708][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.07-00.07.36:719][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.07-00.07.36:719][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.07-00.07.36:719][  0]LogWindows: EnumDisplayDevices:
+[2018.10.07-00.07.36:720][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.10.07-00.07.36:720][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.07-00.07.36:720][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.07-00.07.36:721][  0]LogWindows:    3. 'NVIDIA GeForce 840M' (P:0 D:0)
+[2018.10.07-00.07.36:721][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.10.07-00.07.36:721][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.10.07-00.07.36:722][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.10.07-00.07.36:722][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2018.10.07-00.07.36:722][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.10.07-00.07.36:722][  0]LogD3D11RHI:   Driver Version: 376.54 (internal:21.21.13.7654, unified:376.54)
+[2018.10.07-00.07.36:722][  0]LogD3D11RHI:      Driver Date: 12-29-2016
+[2018.10.07-00.07.36:722][  0]LogRHI: Texture pool is 1397 MB (70% of 1995 MB)
+[2018.10.07-00.07.36:777][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.07-00.07.36:795][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.07-00.07.36:797][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Intermediate/Shaders/WorkingDirectory/7428/).
+[2018.10.07-00.07.36:797][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Catherine/AppData/Local/Temp/UnrealShaderWorkingDir/363A00D94C2DB913C79E82AF581B4FE5/'.
+[2018.10.07-00.07.37:466][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.07-00.07.37:489][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.07-00.07.37:512][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.07-00.07.37:536][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.07-00.07.37:567][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.07-00.07.37:590][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.07-00.07.37:613][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.07-00.07.37:642][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.07-00.07.37:654][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:834][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.07-00.07.37:835][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.07-00.07.37:924][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.07-00.07.37:924][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.07-00.07.37:964][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.07-00.07.37:964][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.07-00.07.37:984][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.07-00.07.38:004][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.07-00.07.38:023][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.07-00.07.38:044][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.07-00.07.38:057][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.07-00.07.38:057][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.07-00.07.38:125][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.07-00.07.38:125][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.07-00.07.38:125][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.07-00.07.39:967][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.07-00.07.40:566][  0]LogDerivedDataCache: Loaded boot cache 0.60s 87MB C:/Users/Catherine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.07-00.07.40:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Catherine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.07-00.07.40:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.07-00.07.40:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.07-00.07.40:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.07-00.07.40:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.07-00.07.40:624][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.07-00.07.40:640][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Catherine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.07-00.07.40:640][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.07-00.07.40:640][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.07-00.07.40:699][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.07-00.07.40:702][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.07-00.07.40:703][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.07-00.07.40:900][  0]LogAssetRegistry: FAssetRegistry took 0.0403 seconds to start up
+[2018.10.07-00.07.41:984][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.07-00.07.42:560][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.07-00.07.42:569][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.07-00.07.42:569][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.07-00.07.42:569][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.07-00.07.42:569][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.07-00.07.42:642][  0]LogNetVersion: biopunchteam_01 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3490124615)
+[2018.10.07-00.07.44:271][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.261156 seconds
+[2018.10.07-00.07.44:288][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.07-00.07.44:288][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.07-00.07.44:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.07-00.08.13:115][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.07-00.08.13:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.07-00.08.13:503][  0]SourceControl: Source control is disabled
+[2018.10.07-00.08.13:503][  0]SourceControl: Source control is disabled
+[2018.10.07-00.08.13:505][  0]SourceControl: Source control is disabled
+[2018.10.07-00.08.13:506][  0]SourceControl: Source control is disabled
+[2018.10.07-00.08.13:796][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.07-00.08.13:868][  0]LogOcInput: OculusInput pre-init called
+[2018.10.07-00.08.14:014][  0]LogEngine: Initializing Engine...
+[2018.10.07-00.08.14:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.07-00.08.14:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.07-00.08.14:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.07-00.08.14:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.07-00.08.14:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.07-00.08.14:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.07-00.08.14:530][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.07-00.08.14:540][  0]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.07-00.08.14:552][  0]LogInit: FAudioDevice initialized.
+[2018.10.07-00.08.14:553][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.07-00.08.14:820][  0]LogDerivedDataCache: Saved boot cache 0.27s 87MB C:/Users/Catherine/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.07-00.08.14:821][  0]LogInit: Texture streaming: Enabled
+[2018.10.07-00.08.14:887][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.07-00.08.14:898][  0]LogInit: Transaction tracking system initialized
+[2018.10.07-00.08.14:927][  0]BlueprintLog: New page: Editor Load
+[2018.10.07-00.08.15:081][  0]LocalizationService: Localization service is disabled
+[2018.10.07-00.08.16:186][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.07-00.08.16:186][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.07-00.08.16:186][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.07-00.08.16:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.07-00.08.16:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.07-00.08.16:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.07-00.08.16:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.07-00.08.16:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Documents/Git/biopunchteam_01/Content/' took 0.01s
+[2018.10.07-00.08.16:595][  0]SourceControl: Source control is disabled
+[2018.10.07-00.08.16:595][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.07-00.08.16:595][  0]LightingResults: New page: Lighting Build
+[2018.10.07-00.08.16:598][  0]MapCheck: New page: Map Check
+[2018.10.07-00.08.16:598][  0]LightingResults: New page: Lighting Build
+[2018.10.07-00.08.16:947][  0]LogBlueprint: Error: [Compiler SeriousGameGameMode] Get number of entries in (bad enum)  must have a valid enum defined
+[2018.10.07-00.08.16:949][  0]LogBlueprint: Error: [Compiler SeriousGameGameMode] Unexpected node type K2Node_GetNumEnumEntries encountered at  Get number of entries in (bad enum)
+[2018.10.07-00.08.16:950][  0]LogBlueprint: Error: [Compiler SeriousGameGameMode] Unexpected node type K2Node_GetNumEnumEntries encountered at  Get number of entries in (bad enum)
+[2018.10.07-00.08.16:951][  0]LogBlueprint: Warning: [Compiler SeriousGameGameMode] [0043,88] Compile of SeriousGameGameMode failed. 3 Fatal Issue(s) 0 Warning(s) [in 12 ms] (/Game/BlueprintsV2/SeriousGameGameMode.SeriousGameGameMode)
+[2018.10.07-00.08.17:277][  0]LogAIModule: Creating AISystem for world MAP_Test
+[2018.10.07-00.08.17:302][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.07-00.08.17:335][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.07-00.08.17:416][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80,649ms to complete.
+[2018.10.07-00.08.17:416][  0]LogFileHelpers: Loading map 'MAP_Test' took 0.821
+[2018.10.07-00.08.17:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-00.08.17:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-00.08.17:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-00.08.17:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-00.08.17:551][  0]LogCollectionManager: Loaded 0 collections in 0.001484 seconds
+[2018.10.07-00.08.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Documents/Git/biopunchteam_01/Saved/Collections/' took 0.01s
+[2018.10.07-00.08.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Documents/Git/biopunchteam_01/Content/Developers/Catherine/Collections/' took 0.01s
+[2018.10.07-00.08.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Documents/Git/biopunchteam_01/Content/Collections/' took 0.01s
+[2018.10.07-00.08.17:591][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.07-00.08.17:606][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2572 classes and 603 folders.
+[2018.10.07-00.08.17:613][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.07-00.08.17:659][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.07-00.08.17:665][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.07-00.08.17:686][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.07-00.08.17:689][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.07-00.08.17:700][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.07-00.08.17:836][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 9 NumSamples 1 (Frame:1).
+[2018.10.07-00.08.18:184][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.07-00.08.18:185][  0]LogLoad: (Engine Initialization) Total time: 45.11 seconds
+[2018.10.07-00.08.18:185][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.07-00.08.18:230][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.10.07-00.08.18:264][  0]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-00.08.18:657][  1]LogAssetRegistry: Asset discovery search completed in 37.7865 seconds
+[2018.10.07-00.08.18:660][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.07-00.08.18:660][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.10.07-00.08.19:233][ 29]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-00.09.39:502][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-00.09.41:197][766]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-00.09.41:227][766]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.07-00.09.41:632][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.09.41:636][766]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.10.07-00.09.42:581][766]LogEnum: Warning: Enum name collision: 'PatternsEnum::NewEnumerator0' is in both '/Game/BlueprintsV2/PatternsEnum.PatternsEnum' and '/Game/BlueprintsV2/Enums/PatternsEnum.PatternsEnum'
+[2018.10.07-00.09.42:581][766]LogEnum: Warning: Enum name collision: 'PatternsEnum::NewEnumerator1' is in both '/Game/BlueprintsV2/PatternsEnum.PatternsEnum' and '/Game/BlueprintsV2/Enums/PatternsEnum.PatternsEnum'
+[2018.10.07-00.09.42:581][766]LogEnum: Warning: Enum name collision: 'PatternsEnum::PatternsEnum_MAX' is in both '/Game/BlueprintsV2/PatternsEnum.PatternsEnum' and '/Game/BlueprintsV2/Enums/PatternsEnum.PatternsEnum'
+[2018.10.07-00.09.42:581][766]LogEnum: Warning: Enum name collision: 'PatternsEnum::NewEnumerator0' is in both '/Game/BlueprintsV2/PatternsEnum.PatternsEnum' and '/Game/BlueprintsV2/Enums/PatternsEnum.PatternsEnum'
+[2018.10.07-00.09.42:581][766]LogEnum: Warning: Enum name collision: 'PatternsEnum::NewEnumerator1' is in both '/Game/BlueprintsV2/PatternsEnum.PatternsEnum' and '/Game/BlueprintsV2/Enums/PatternsEnum.PatternsEnum'
+[2018.10.07-00.09.42:617][766]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.07-00.09.43:838][766]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.09.44:495][766]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.07-00.09.44:562][766]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.10.07-00.09.44:629][767]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.07-00.10.05:709][653]LogRenderer: Reallocating scene render targets to support 996x532 Format 9 NumSamples 1 (Frame:891).
+[2018.10.07-00.10.07:109][692]LogSlate: Window 'Viewport 3' being destroyed
+[2018.10.07-00.10.07:142][692]LogSlate: Window 'Viewport 3' being destroyed
+[2018.10.07-00.11.21:714][420]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.11.21:764][420]LogBlueprint: Warning: [Compiler ABP_Cameleon] Entry node  Cameleon  is not connected to state
+[2018.10.07-00.11.21:764][420]LogBlueprint: Warning: [Compiler ABP_Cameleon] There was no entry state connection in  Cameleon
+[2018.10.07-00.11.22:054][420]LogBlueprint: Warning: [Compiler ABP_Cameleon] [0228,98] Compile of ABP_Cameleon successful, but with 2 Warning(s) [in 340 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.11.45:956][502]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.11.47:873][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-00.11.47:936][571]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon9380126F4803E434FEAD8287CF02B78B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-00.13.47:458][956]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.13.47:488][956]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Dancing  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.13.47:488][956]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Being Rejected  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.13.47:488][956]LogBlueprint: Warning: [Compiler ABP_Cameleon] Dancing to idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.13.47:489][956]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Changing color  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.13.47:759][956]LogBlueprint: Warning: [Compiler ABP_Cameleon] [0374,68] Compile of ABP_Cameleon successful, but with 4 Warning(s) [in 300 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.13.49:061][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-00.13.49:151][999]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_CameleonDD16B3164E511FB5DD192595B29B1ED4.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-00.13.49:639][ 17]LogSlate: Window 'ABP_Cameleon' being destroyed
+[2018.10.07-00.13.58:633][399]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.10.07-00.13.58:739][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.07-00.14.00:018][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-00.14.16:418][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset" SILENT=true
+[2018.10.07-00.14.16:440][205]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/IdleWalk7A99186A49BE7F5E6C2517A0089E4135.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset'
+[2018.10.07-00.14.17:667][232]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/IdleWalk.IdleWalk
+[2018.10.07-00.14.17:718][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.14.17:817][232]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.14.18:532][232]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace1D
+[2018.10.07-00.14.34:328][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset" SILENT=true
+[2018.10.07-00.14.34:352][816]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/IdleWalkE3BB22FE42DAD22C81D4CFA9B40F9DC1.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset'
+[2018.10.07-00.14.46:719][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset" SILENT=true
+[2018.10.07-00.14.46:732][  7]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/IdleWalkF8AF5C5143E4914A824DD98B9B8B945B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset'
+[2018.10.07-00.15.29:641][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.07-00.15.33:805][807]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.10.07-00.15.42:068][169]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_NPC.ABP_NPC
+[2018.10.07-00.15.42:098][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.15.42:653][169]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.16.31:149][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset" SILENT=true
+[2018.10.07-00.16.31:159][ 41]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/IdleWalk8E1ECEBD4342089A90F8E6900BBD7328.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/IdleWalk.uasset'
+[2018.10.07-00.16.32:488][ 87]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-00.16.32:501][ 87]LogBlueprint: Warning: [Compiler ABP_NPC] Entry node  NPC  is not connected to state
+[2018.10.07-00.16.32:501][ 87]LogBlueprint: Warning: [Compiler ABP_NPC] There was no entry state connection in  NPC
+[2018.10.07-00.16.32:806][ 87]LogBlueprint: Warning: [Compiler ABP_NPC] [0539,73] Compile of ABP_NPC successful, but with 2 Warning(s) [in 317 ms] (/Game/Character/ABP_NPC.ABP_NPC)
+[2018.10.07-00.16.33:214][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.16.33:254][ 96]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPCE4793BA84597337BB2D97CB88D7BFDA4.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.17.58:032][649]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] idle/Talking to Interested  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] Interested to Reject  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] Interested to Accept  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] Reject to idle/Talking  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] Accept to idle/Talking  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:055][649]LogBlueprint: Warning: [Compiler ABP_NPC] Interested to idle/Talking  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.17.58:297][649]LogBlueprint: Warning: [Compiler ABP_NPC] [0625,22] Compile of ABP_NPC successful, but with 6 Warning(s) [in 264 ms] (/Game/Character/ABP_NPC.ABP_NPC)
+[2018.10.07-00.17.58:686][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.17.58:758][658]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC85DBED9A4DBCA1725385FC8AF09E1344.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.29.37:439][880]LogSlate: Window 'ABP_NPC' being destroyed
+[2018.10.07-00.30.05:082][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BSIdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BSIdleWalk.uasset" SILENT=true
+[2018.10.07-00.30.05:105][135]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BSIdleWalkF51C04874ECB2770038DDE96E9B83728.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BSIdleWalk.uasset'
+[2018.10.07-00.30.11:847][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BS_IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset" SILENT=true
+[2018.10.07-00.30.11:867][382]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BS_IdleWalk7E1665F74C93AEFD6D7EA49D4C97334A.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset'
+[2018.10.07-00.30.19:752][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/Cameleon_idle.FBX)
+[2018.10.07-00.30.19:964][461]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/Cameleon_idle.FBX
+[2018.10.07-00.30.20:073][461]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-00.30.22:865][461]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-00.30.23:073][461]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-00.30.23:074][461]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-00.30.23:075][461]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-00.30.23:087][461]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-00.30.23:137][461]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_idle'
+[2018.10.07-00.30.23:138][461]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_idle'
+[2018.10.07-00.30.23:156][461]LogFbx: CurveName : ik_blend
+[2018.10.07-00.30.23:156][461]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-00.30.24:117][461]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle
+[2018.10.07-00.30.24:118][461]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Cameleon_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-00.30.30:619][516]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/Cameleon_run.FBX)
+[2018.10.07-00.30.30:646][516]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/Cameleon_run.FBX
+[2018.10.07-00.30.30:719][516]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-00.30.34:076][516]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-00.30.34:100][516]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-00.30.34:101][516]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-00.30.34:102][516]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-00.30.34:108][516]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_run'
+[2018.10.07-00.30.34:109][516]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_run'
+[2018.10.07-00.30.34:113][516]LogFbx: CurveName : ik_blend
+[2018.10.07-00.30.34:113][516]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-00.30.34:481][516]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_run.Cameleon_run
+[2018.10.07-00.30.34:482][516]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Cameleon_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-00.30.34:666][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP_Test' took 0.062
+[2018.10.07-00.30.34:671][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Cameleon_idle] ([1] browsable assets)...
+[2018.10.07-00.30.34:694][517]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle]
+[2018.10.07-00.30.34:694][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Cameleon_idle]
+[2018.10.07-00.30.34:720][517]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idle_Auto1BE3F607A4E87A82E952A678A2CDF567A.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/Cameleon_idle_Auto1.uasset'
+[2018.10.07-00.30.34:725][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Cameleon_run] ([1] browsable assets)...
+[2018.10.07-00.30.34:746][517]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Cameleon_run.Cameleon_run]
+[2018.10.07-00.30.34:746][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Cameleon_run]
+[2018.10.07-00.30.34:771][517]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_run_Auto158A30D694566481A7190398EE17553DA.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/Cameleon_run_Auto1.uasset'
+[2018.10.07-00.30.34:773][517]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.10.07-00.30.37:178][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Cameleon_run" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_run.uasset" SILENT=true
+[2018.10.07-00.30.37:187][610]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_run689541E445F03A61D27711BAA39811C8.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_run.uasset'
+[2018.10.07-00.30.37:197][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Cameleon_idle" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset" SILENT=true
+[2018.10.07-00.30.37:206][610]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idle116BF74243E6315B04F0849A24120D96.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset'
+[2018.10.07-00.30.39:665][707]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/BS_IdleWalk.BS_IdleWalk
+[2018.10.07-00.30.39:679][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.30.39:757][707]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.30.40:358][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.32.12:009][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BS_IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset" SILENT=true
+[2018.10.07-00.32.12:043][  9]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BS_IdleWalkC36B3A324D5D04C7C3CB9093D3496D3C.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset'
+[2018.10.07-00.32.22:699][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BS_IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset" SILENT=true
+[2018.10.07-00.32.22:711][246]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BS_IdleWalk27F9CFE5433546E04CE3B79F90F9AFF8.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset'
+[2018.10.07-00.32.23:574][270]LogSlate: Window 'BS_IdleWalk' being destroyed
+[2018.10.07-00.32.31:087][556]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle
+[2018.10.07-00.32.31:103][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.32.31:180][556]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.32.32:015][556]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.33.21:081][279]LogSlate: Window 'Cameleon_idle*' being destroyed
+[2018.10.07-00.33.21:099][279]LogSlate: Window 'Cameleon_idle*' being destroyed
+[2018.10.07-00.33.23:715][393]LogEditorFactories: Performing atomic reimport of [C:/Users/Catherine/Desktop/Cameleon_idle.FBX]
+[2018.10.07-00.33.23:765][393]LogFbx: Loading FBX Scene from C:/Users/Catherine/Desktop/Cameleon_idle.FBX
+[2018.10.07-00.33.23:841][393]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-00.33.23:845][393]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-00.33.23:855][393]LogFbx: CurveName : ik_blend
+[2018.10.07-00.33.23:855][393]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-00.33.24:623][393]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle
+[2018.10.07-00.33.24:624][393]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-00.33.24:645][393]LogEditorFactories: -- imported successfully
+[2018.10.07-00.33.27:757][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Test" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.07-00.33.27:899][524]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/MAP_TestE48410B241A296AFCEC857828C6B1214.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test.umap'
+[2018.10.07-00.33.27:965][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Test_BuiltData" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test_BuiltData.uasset" SILENT=true
+[2018.10.07-00.33.28:023][524]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/MAP_Test_BuiltDataCA33D5A543BEFF0302D35996F593214B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test_BuiltData.uasset'
+[2018.10.07-00.33.32:535][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Test" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.07-00.33.32:661][736]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/MAP_Test23E159D54DCCDBB58FAA3EB6C5A60C95.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test.umap'
+[2018.10.07-00.33.32:727][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Test_BuiltData" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test_BuiltData.uasset" SILENT=true
+[2018.10.07-00.33.32:757][736]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/MAP_Test_BuiltData48D0ED9242AA61E58B82CD859497A421.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Maps/MAP_Test_BuiltData.uasset'
+[2018.10.07-00.33.38:376][952]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-00.33.38:415][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.33.39:052][952]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.33.45:578][138]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.33.45:609][138]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Dancing  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.45:611][138]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Being Rejected  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.45:611][138]LogBlueprint: Warning: [Compiler ABP_Cameleon] Dancing to idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.45:612][138]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Changing color  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.45:862][138]LogBlueprint: Warning: [Compiler ABP_Cameleon] [1572,78] Compile of ABP_Cameleon successful, but with 4 Warning(s) [in 284 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.33.49:543][269]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.33.58:503][603]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.33.58:546][603]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Dancing  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.58:547][603]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Being Rejected  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.58:547][603]LogBlueprint: Warning: [Compiler ABP_Cameleon] Dancing to idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.58:547][603]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Changing color  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.33.58:844][603]LogBlueprint: Warning: [Compiler ABP_Cameleon] [1585,76] Compile of ABP_Cameleon successful, but with 4 Warning(s) [in 340 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.33.59:266][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-00.33.59:347][616]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon83FEB639476899601290F3958B0FAAF6.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-00.34.00:859][666]LogSlate: Window 'ABP_Cameleon' being destroyed
+[2018.10.07-00.34.02:881][739]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-00.34.02:914][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.34.03:444][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.34.04:128][739]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.34.08:581][892]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.34.08:615][892]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Dancing  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.34.08:616][892]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Being Rejected  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.34.08:616][892]LogBlueprint: Warning: [Compiler ABP_Cameleon] Dancing to idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.34.08:617][892]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Changing color  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.34.08:878][892]LogBlueprint: Warning: [Compiler ABP_Cameleon] [1595,79] Compile of ABP_Cameleon successful, but with 4 Warning(s) [in 297 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.34.09:059][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-00.34.09:148][895]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_CameleonFF7666E24F81671015E3F99260292791.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-00.34.09:726][910]LogSlate: Window 'ABP_Cameleon' being destroyed
+[2018.10.07-00.34.15:593][135]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/BS_IdleWalk.BS_IdleWalk
+[2018.10.07-00.34.15:608][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.34.15:689][135]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.34.16:359][135]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.34.25:445][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BS_IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset" SILENT=true
+[2018.10.07-00.34.25:469][422]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BS_IdleWalk75F2CBA5448A8C8F6176D992E9BABDD9.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset'
+[2018.10.07-00.34.26:688][465]LogSlate: Window 'BS_IdleWalk' being destroyed
+[2018.10.07-00.34.42:530][184]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-00.34.42:569][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.34.43:195][184]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.34.43:738][184]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.35.02:734][891]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.35.02:770][891]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Dancing  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.35.02:770][891]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Being Rejected  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.35.02:770][891]LogBlueprint: Warning: [Compiler ABP_Cameleon] Dancing to idle/walk  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.35.02:771][891]LogBlueprint: Warning: [Compiler ABP_Cameleon] idle/walk to Changing color  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-00.35.03:015][891]LogBlueprint: Warning: [Compiler ABP_Cameleon] [1649,93] Compile of ABP_Cameleon successful, but with 4 Warning(s) [in 280 ms] (/Game/Character/ABP_Cameleon.ABP_Cameleon)
+[2018.10.07-00.35.03:156][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-00.35.03:230][893]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon3338491047D51C496A524FAA2F089FDA.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-00.35.04:018][920]LogSlate: Window 'ABP_Cameleon' being destroyed
+[2018.10.07-00.35.05:393][968]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_NPC.ABP_NPC
+[2018.10.07-00.35.05:420][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.35.06:001][968]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.35.06:560][968]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.41.21:592][621]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-00.41.22:655][647]LogSlate: Window 'ABP_NPC*' being destroyed
+[2018.10.07-00.41.24:255][708]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_NPC.ABP_NPC
+[2018.10.07-00.41.24:289][708]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.41.24:794][708]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.41.25:473][708]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.42.24:355][963]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-00.42.26:890][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.42.27:001][ 46]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC0D74331A4A8555AA86533CBC942D3FFF.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.43.43:886][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.43.43:970][  8]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC7A04D806403827129A328E80CC187DE5.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.44.08:753][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-00.44.08:869][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.44.08:954][921]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPCB7DAFC9A4A7E7D129B52D098B57D0F3E.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.44.41:241][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-00.44.41:329][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-00.44.41:415][ 63]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC9BF842BA4D986BD628A7DE8596B23B4E.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-00.44.42:681][105]LogSlate: Window 'ABP_NPC' being destroyed
+[2018.10.07-00.44.44:325][159]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-00.44.44:364][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-00.44.44:890][159]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-00.44.45:489][159]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-00.47.41:629][111]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-00.48.20:020][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP_Test' took 0.073
+[2018.10.07-00.48.20:024][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/ABP_Cameleon] ([1] browsable assets)...
+[2018.10.07-00.48.20:051][407]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon]
+[2018.10.07-00.48.20:051][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/ABP_Cameleon]
+[2018.10.07-00.48.20:201][407]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon_Auto2FB33B0734E90500DB4960D8E94D2A79B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/ABP_Cameleon_Auto2.uasset'
+[2018.10.07-00.48.20:206][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Cameleon_idle] ([1] browsable assets)...
+[2018.10.07-00.48.20:233][407]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle]
+[2018.10.07-00.48.20:233][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Cameleon_idle]
+[2018.10.07-00.48.20:276][407]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idle_Auto2A513B28344969C95553FAB84300381BC.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/Cameleon_idle_Auto2.uasset'
+[2018.10.07-00.48.20:280][407]LogFileHelpers: Auto-saving content packages took 0.258
+[2018.10.07-01.03.21:968][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-01.03.22:074][248]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon5148620F4D8F38EB2A96028B4D65370B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-01.03.22:589][263]LogSlate: Window 'ABP_Cameleon' being destroyed
+[2018.10.07-01.03.29:225][582]LogEditorFactories: Performing atomic reimport of [C:/Users/Catherine/Desktop/Cameleon_idle.FBX]
+[2018.10.07-01.03.29:277][582]LogFbx: Loading FBX Scene from C:/Users/Catherine/Desktop/Cameleon_idle.FBX
+[2018.10.07-01.03.29:337][582]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.03.29:341][582]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.03.29:351][582]LogFbx: CurveName : ik_blend
+[2018.10.07-01.03.29:351][582]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.03.30:147][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle
+[2018.10.07-01.03.30:148][582]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Cameleon_idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.03.30:177][582]LogEditorFactories: -- imported successfully
+[2018.10.07-01.03.54:672][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP_Test' took 0.071
+[2018.10.07-01.03.54:675][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Cameleon_idle] ([1] browsable assets)...
+[2018.10.07-01.03.54:707][722]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle]
+[2018.10.07-01.03.54:707][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Cameleon_idle]
+[2018.10.07-01.03.54:759][722]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idle_Auto3B85359E947EC195DD9C27BBC472AA7FD.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/Cameleon_idle_Auto3.uasset'
+[2018.10.07-01.03.54:764][722]LogFileHelpers: Auto-saving content packages took 0.090
+[2018.10.07-01.05.37:137][ 75]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/Cameleon_Rejected.FBX)
+[2018.10.07-01.05.37:165][ 75]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/Cameleon_Rejected.FBX
+[2018.10.07-01.05.37:220][ 75]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.05.40:476][ 75]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-01.05.40:511][ 75]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-01.05.40:516][ 75]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-01.05.40:517][ 75]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-01.05.40:518][ 75]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-01.05.40:518][ 75]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-01.05.40:518][ 75]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-01.05.40:520][ 75]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.05.40:531][ 75]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_Rejected'
+[2018.10.07-01.05.40:531][ 75]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_Rejected'
+[2018.10.07-01.05.40:540][ 75]LogFbx: CurveName : ik_blend
+[2018.10.07-01.05.40:540][ 75]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.05.40:969][ 75]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_Rejected.Cameleon_Rejected
+[2018.10.07-01.05.40:970][ 75]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Cameleon_Rejected) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.05.58:628][839]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_RejectedCF9053D14EF97B4B972C0C8C144B66F0.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_Rejected.uasset'
+[2018.10.07-01.05.58:640][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Cameleon_idle" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset" SILENT=true
+[2018.10.07-01.05.58:666][839]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idle309AB6644336AFF8D5E1FB8F9942D3E2.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset'
+[2018.10.07-01.06.00:905][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.07-01.06.00:957][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.07-01.06.02:599][952]LogSlate: Window 'Message' being destroyed
+[2018.10.07-01.07.37:961][493]LogEditorFactories: Performing atomic reimport of [C:/Users/Catherine/Desktop/Cameleon_idle.FBX]
+[2018.10.07-01.07.38:002][493]LogFbx: Loading FBX Scene from C:/Users/Catherine/Desktop/Cameleon_idle.FBX
+[2018.10.07-01.07.38:062][493]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.07.38:067][493]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.07.38:079][493]LogFbx: CurveName : ik_blend
+[2018.10.07-01.07.38:079][493]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.07.40:092][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_idle.Cameleon_idle
+[2018.10.07-01.07.40:094][493]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.07.40:130][493]LogEditorFactories: -- imported successfully
+[2018.10.07-01.07.43:834][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Cameleon_idle" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset" SILENT=true
+[2018.10.07-01.07.43:876][648]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_idleBE05DD9E4926DD40B4EDC28D54253D33.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_idle.uasset'
+[2018.10.07-01.08.51:933][ 57]LogEditorFactories: Performing atomic reimport of [C:/Users/Catherine/Desktop/Cameleon_Rejected.FBX]
+[2018.10.07-01.08.51:981][ 57]LogFbx: Loading FBX Scene from C:/Users/Catherine/Desktop/Cameleon_Rejected.FBX
+[2018.10.07-01.08.52:040][ 57]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.08.52:044][ 57]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.08.52:050][ 57]LogFbx: CurveName : ik_blend
+[2018.10.07-01.08.52:051][ 57]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.08.52:390][ 57]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_Rejected.Cameleon_Rejected
+[2018.10.07-01.08.52:391][ 57]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.08.52:414][ 57]LogEditorFactories: -- imported successfully
+[2018.10.07-01.13.55:354][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP_Test' took 0.065
+[2018.10.07-01.13.55:357][ 23]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Cameleon_Rejected] ([1] browsable assets)...
+[2018.10.07-01.13.55:384][ 23]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Cameleon_Rejected.Cameleon_Rejected]
+[2018.10.07-01.13.55:384][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Cameleon_Rejected]
+[2018.10.07-01.13.55:432][ 23]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_Rejected_Auto4036D86BC4F012C388C45D8B23D30E5DF.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/Cameleon_Rejected_Auto4.uasset'
+[2018.10.07-01.13.55:436][ 23]LogFileHelpers: Auto-saving content packages took 0.080
+[2018.10.07-01.40.47:406][950]LogEditorFactories: Performing atomic reimport of [C:/Users/Catherine/Desktop/Cameleon_Rejected.FBX]
+[2018.10.07-01.40.47:454][950]LogFbx: Loading FBX Scene from C:/Users/Catherine/Desktop/Cameleon_Rejected.FBX
+[2018.10.07-01.40.47:500][950]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.40.47:505][950]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.40.47:512][950]LogFbx: CurveName : ik_blend
+[2018.10.07-01.40.47:512][950]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.40.47:842][950]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_Rejected.Cameleon_Rejected
+[2018.10.07-01.40.47:843][950]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.40.47:864][950]LogEditorFactories: -- imported successfully
+[2018.10.07-01.40.50:021][ 45]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_RejectedD9C6DBD6497A07BDECDCBD806474E89B.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_Rejected.uasset'
+[2018.10.07-01.40.55:819][ 65]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/Cameleon_happy.FBX)
+[2018.10.07-01.40.55:849][ 65]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/Cameleon_happy.FBX
+[2018.10.07-01.40.55:904][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-01.40.59:571][ 65]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-01.40.59:599][ 65]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-01.40.59:600][ 65]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-01.40.59:602][ 65]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-01.40.59:607][ 65]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_happy'
+[2018.10.07-01.40.59:608][ 65]LogLinker: Can't find file '/Game/Character/Animations/Cameleon_happy'
+[2018.10.07-01.40.59:613][ 65]LogFbx: CurveName : ik_blend
+[2018.10.07-01.40.59:614][ 65]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-01.40.59:988][ 65]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/Cameleon_happy.Cameleon_happy
+[2018.10.07-01.40.59:989][ 65]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Cameleon_happy) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-01.41.03:303][214]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_happy1877958C4CA11935A3DE9FA1FF191624.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_happy.uasset'
+[2018.10.07-01.41.05:408][299]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_Cameleon.ABP_Cameleon
+[2018.10.07-01.41.05:440][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-01.41.06:086][299]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-01.41.06:686][299]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-01.41.21:851][825]BlueprintLog: New page: Compile ABP_Cameleon
+[2018.10.07-01.41.22:663][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_Cameleon" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset" SILENT=true
+[2018.10.07-01.41.22:807][841]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_Cameleon4E2B098447419803331FF8BB078501B6.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_Cameleon.uasset'
+[2018.10.07-01.41.29:110][ 70]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/BS_IdleWalk.BS_IdleWalk
+[2018.10.07-01.41.29:139][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-01.41.29:176][ 70]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-01.41.29:825][ 70]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-01.41.42:930][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BS_IdleWalk" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset" SILENT=true
+[2018.10.07-01.41.42:958][553]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/BS_IdleWalkA8EBC9784CAA470F5E7B81875E7EFA1C.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/BS_IdleWalk.uasset'
+[2018.10.07-01.41.54:635][955]LogSlate: Window 'BS_IdleWalk' being destroyed
+[2018.10.07-01.41.59:048][133]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Animations/Cameleon_run.Cameleon_run
+[2018.10.07-01.41.59:075][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-01.41.59:157][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-01.41.59:762][133]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-01.42.04:720][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Cameleon_run" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_run.uasset" SILENT=true
+[2018.10.07-01.42.04:753][302]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Cameleon_run9C367E114192B3E07FC23CB6F70E5BC7.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/Cameleon_run.uasset'
+[2018.10.07-01.42.05:713][335]LogSlate: Window 'Cameleon_run' being destroyed
+[2018.10.07-01.42.06:922][382]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.07-01.42.06:969][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.07-01.42.08:425][382]LogSlate: Window 'Message' being destroyed
+[2018.10.07-01.42.08:642][382]PIE: New page: PIE session: MAP_Test (2018-10-06 17:42:08)
+[2018.10.07-01.42.08:646][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Test
+[2018.10.07-01.42.08:723][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076064s)
+[2018.10.07-01.42.08:742][382]LogAIModule: Creating AISystem for world MAP_Test
+[2018.10.07-01.42.08:748][382]LogPlayLevel: PIE: World Init took: (0.007199s)
+[2018.10.07-01.42.08:749][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Test.MAP_Test to /Game/Maps/UEDPIE_0_MAP_Test.MAP_Test (0.102137s)
+[2018.10.07-01.42.08:905][382]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.07-01.42.08:926][382]LogInit: FAudioDevice initialized.
+[2018.10.07-01.42.09:052][382]LogLoad: Game class is 'SeriousGameGameMode_C'
+[2018.10.07-01.42.09:085][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Test.MAP_Test up for play (max tick rate 60) at 2018.10.06-21.42.09
+[2018.10.07-01.42.09:202][382]LogWorld: Bringing up level for play took: 0.118485
+[2018.10.07-01.42.09:559][382]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.07-01.42.09:819][382]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Test 3,118
+[2018.10.07-01.42.34:688][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-01.42.34:800][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.07-01.42.34:850][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.07-01.42.34:885][842]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.10.07-02.06.04:623][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-02.06.09:987][287]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/NPC_Idle.FBX)
+[2018.10.07-02.06.10:007][287]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/NPC_Idle.FBX
+[2018.10.07-02.06.10:053][287]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-02.06.12:568][287]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-02.06.12:591][287]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-02.06.12:592][287]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-02.06.12:593][287]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-02.06.12:599][287]LogLinker: Can't find file '/Game/Character/Animations/NPC_Idle'
+[2018.10.07-02.06.12:599][287]LogLinker: Can't find file '/Game/Character/Animations/NPC_Idle'
+[2018.10.07-02.06.12:603][287]LogFbx: CurveName : ik_blend
+[2018.10.07-02.06.12:603][287]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-02.06.13:356][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/NPC_Idle.NPC_Idle
+[2018.10.07-02.06.13:357][287]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NPC_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-02.06.16:212][424]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_NPC.ABP_NPC
+[2018.10.07-02.06.16:239][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-02.06.16:669][424]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-02.06.17:215][424]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-02.06.29:657][960]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-02.06.35:828][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-02.06.35:947][211]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC3D4F39E4480EC7EE2F8762AADBA1DB39.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-02.06.36:724][244]LogSlate: Window 'ABP_NPC' being destroyed
+[2018.10.07-02.07.09:186][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MAP_Test' took 0.076
+[2018.10.07-02.07.09:190][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/NPC_Idle] ([1] browsable assets)...
+[2018.10.07-02.07.09:226][726]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/NPC_Idle.NPC_Idle]
+[2018.10.07-02.07.09:226][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/NPC_Idle]
+[2018.10.07-02.07.09:260][726]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/NPC_Idle_Auto53A7564B848C4FEEDC0D06B9997807981.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/Autosaves/Game/Character/Animations/NPC_Idle_Auto5.uasset'
+[2018.10.07-02.07.09:264][726]LogFileHelpers: Auto-saving content packages took 0.076
+[2018.10.07-02.09.34:385][317]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Animations/NPC_Idle.NPC_Idle
+[2018.10.07-02.09.34:411][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-02.09.34:474][317]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-02.09.35:089][317]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-02.09.51:730][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-02.23.58:176][840]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/ABP_NPC.ABP_NPC
+[2018.10.07-02.23.58:204][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.07-02.23.58:655][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.07-02.23.59:200][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.07-02.24.36:593][388]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-02.24.36:630][388]LogBlueprint: Warning: [Compiler ABP_NPC] InterestedStart to Interested  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-02.24.36:882][388]LogBlueprint: Warning: [Compiler ABP_NPC] [8223,73] Compile of ABP_NPC successful, but with 1 Warning(s) [in 289 ms] (/Game/Character/ABP_NPC.ABP_NPC)
+[2018.10.07-02.24.45:225][630]BlueprintLog: New page: Compile ABP_NPC
+[2018.10.07-02.24.45:262][630]LogBlueprint: Warning: [Compiler ABP_NPC] InterestedStart to Interested  will never be taken, please connect something to  Can Enter Transition
+[2018.10.07-02.24.45:508][630]LogBlueprint: Warning: [Compiler ABP_NPC] [8232,36] Compile of ABP_NPC successful, but with 1 Warning(s) [in 282 ms] (/Game/Character/ABP_NPC.ABP_NPC)
+[2018.10.07-02.24.45:924][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ABP_NPC" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset" SILENT=true
+[2018.10.07-02.24.46:038][641]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/ABP_NPC522A35404724A0EACC52249880C1F090.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/ABP_NPC.uasset'
+[2018.10.07-02.25.23:526][919]LogSlate: Window 'ABP_NPC' being destroyed
+[2018.10.07-02.25.28:793][ 16]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Catherine/Desktop/NPC_InterestedStart.FBX)
+[2018.10.07-02.25.28:812][ 16]LogFbx: Loading FBX Scene from ../../../../../../Users/Catherine/Desktop/NPC_InterestedStart.FBX
+[2018.10.07-02.25.28:859][ 16]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.07-02.25.31:536][ 16]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(0) CameleonPelvis
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(1) CameleonSpine1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(2) CameleonSpine2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(3) CameleonChest
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(4) CameleonSpine
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(5) CameleonHead
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(6) CameleonLeftEye
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(7) CameleonRightEye
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(8) CameleonLArmCollarbone
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(9) CameleonLArm1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(10) CameleonLArm2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(11) CameleonLArmPalm
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(12) CameleonLArmDigit11
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(13) CameleonLArmDigit12
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(14) CameleonLArmDigit13
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(15) CameleonLArmDigit21
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(16) CameleonLArmDigit22
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(17) CameleonLArmDigit23
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(18) CameleonLArmDigit31
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(19) CameleonLArmDigit32
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(20) CameleonLArmDigit33
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(21) CameleonRArmCollarbone
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(22) CameleonRArm1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(23) CameleonRArm2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(24) CameleonRArmPalm
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(25) CameleonRArmDigit11
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(26) CameleonRArmDigit12
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(27) CameleonRArmDigit13
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(28) CameleonRArmDigit21
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(29) CameleonRArmDigit22
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(30) CameleonRArmDigit23
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(31) CameleonRArmDigit31
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(32) CameleonRArmDigit32
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(33) CameleonRArmDigit33
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(34) CameleonTail1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(35) CameleonTail2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(36) CameleonTail3
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(37) CameleonTail4
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(38) CameleonTail5
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(39) CameleonTail6
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(40) CameleonRightLeg1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(41) CameleonRightLeg2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(42) CameleonRightLegAnkle
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(43) CameleonRightLegFoot1
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(44) CameleonRightLegFoot2
+[2018.10.07-02.25.31:575][ 16]LogFbx: SortedLinks :(45) CameleonRightEndFoot
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(46) CameleonLeftLeg_1
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(47) CameleonLeftLeg_2
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(48) CameleonLeftLeg_Ankle
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(49) CameleonLeftLeg_Foot1
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(50) CameleonLeftLeg_Foot2
+[2018.10.07-02.25.31:576][ 16]LogFbx: SortedLinks :(51) CameleonLeftFootEnd
+[2018.10.07-02.25.31:577][ 16]LogFbx: Parsing AnimStack Take 001
+[2018.10.07-02.25.31:581][ 16]LogLinker: Can't find file '/Game/Character/Animations/NPC_InterestedStart'
+[2018.10.07-02.25.31:582][ 16]LogLinker: Can't find file '/Game/Character/Animations/NPC_InterestedStart'
+[2018.10.07-02.25.31:586][ 16]LogFbx: CurveName : ik_blend
+[2018.10.07-02.25.31:586][ 16]LogFbx: CurveName(ik_blend) is skipped because it only contains invalid values.
+[2018.10.07-02.25.32:106][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/NPC_InterestedStart.NPC_InterestedStart
+[2018.10.07-02.25.32:107][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NPC_InterestedStart) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.07-02.25.34:085][ 80]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/NPC_InterestedStartFB7BA5AB441D1601763F67A14B9B7CC7.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/NPC_InterestedStart.uasset'
+[2018.10.07-02.25.58:222][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/NPC_Idle" FILE="../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/NPC_Idle.uasset" SILENT=true
+[2018.10.07-02.25.58:230][501]LogSavePackage: Moving '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Saved/NPC_IdleD94E9118498D68989DF95983F2D21320.tmp' to '../../../../../../Users/Catherine/Documents/Git/biopunchteam_01/Content/Character/Animations/NPC_Idle.uasset'
+[2018.10.07-02.26.17:407][912]LogSlate: Window 'biopunchteam_01 - Unreal Editor' being destroyed
+[2018.10.07-02.26.17:631][913]Cmd: QUIT_EDITOR
+[2018.10.07-02.26.17:721][913]LogExit: Preparing to exit.
+[2018.10.07-02.26.18:182][913]LogExit: Editor shut down
+[2018.10.07-02.26.18:183][913]LogExit: Transaction tracking system shut down
+[2018.10.07-02.26.18:806][913]LogExit: Object subsystem successfully closed.
+[2018.10.07-02.26.18:886][913]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.07-02.26.18:893][913]LogD3D11RHI: Shutdown
+[2018.10.07-02.26.18:893][913]LogD3D11RHI: CleanupD3DDevice
+[2018.10.07-02.26.18:900][913]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.07-02.26.19:107][913]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.10.07-02.26.19:107][913]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module AnimationEditor (622)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (612)
+[2018.10.07-02.26.19:893][913]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.07-02.26.19:894][913]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.07-02.26.19:894][913]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.07-02.26.19:895][913]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.07-02.26.19:895][913]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.07-02.26.19:895][913]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.07-02.26.19:896][913]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.07-02.26.19:897][913]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.07-02.26.19:898][913]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.07-02.26.19:898][913]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.07-02.26.19:898][913]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.07-02.26.19:898][913]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.07-02.26.19:898][913]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.07-02.26.20:856][913]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.07-02.26.20:896][913]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.07-02.26.20:904][913]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.07-02.26.20:904][913]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.07-02.26.20:905][913]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.07-02.26.20:939][913]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.07-02.26.20:940][913]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.07-02.26.20:940][913]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.07-02.26.20:943][913]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.07-02.26.20:944][913]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.07-02.26.21:044][913]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.07-02.26.21:144][913]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.07-02.26.21:145][913]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.07-02.26.21:145][913]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.07-02.26.21:145][913]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.07-02.26.21:145][913]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.07-02.26.21:145][913]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.07-02.26.21:147][913]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.07-02.26.21:148][913]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.07-02.26.21:154][913]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.07-02.26.21:154][913]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.07-02.26.21:155][913]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.07-02.26.21:156][913]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.07-02.26.21:158][913]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.07-02.26.21:226][913]LogDerivedDataCache: Shutdown
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.07-02.26.21:226][913]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.07-02.26.21:227][913]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.07-02.26.21:228][913]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.07-02.26.21:228][913]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.07-02.26.21:229][913]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.07-02.26.21:229][913]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.07-02.26.21:241][913]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.07-02.26.21:242][913]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.07-02.26.21:242][913]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.07-02.26.21:244][913]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.07-02.26.21:244][913]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.07-02.26.21:244][913]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF34A8D2B-4A3F-A7E6-98C6-E6A493ADB859%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=44b585dd4b0a218a489291ba3f61e3f7%7Cec6dcf5915ab4b8fb234ba7abedcb0da%7Ca920765c-42dc-440c-88ec-72dce223f0a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.07-02.26.21:249][913]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.07-02.26.21:250][913]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.07-02.26.21:251][913]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.07-02.26.21:251][913]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.07-02.26.21:254][913]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.07-02.26.21:254][913]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.07-02.26.21:254][913]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.07-02.26.21:254][913]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.07-02.26.21:255][913]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.07-02.26.21:258][913]LogExit: Exiting.
+[2018.10.07-02.26.21:279][913]Log file closed, 10/06/18 22:26:21
